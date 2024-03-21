@@ -2,12 +2,10 @@ package app_controller.oop.mobile_course.controllers.abstract_class_controllers;
 
 import app_controller.oop.mobile_course.contracts.BaseCourse;
 import app_controller.oop.mobile_course.data.CourseData;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
 import static app_controller.oop.mobile_course.utility.UtilMethods.*;
 
 /**
